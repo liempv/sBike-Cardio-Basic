@@ -83,4 +83,4 @@ https://github.com/liempv/sBike-Cardio-Basic/releases
 
 ## 📄 License
 
-MIT License 
+Custom License 
