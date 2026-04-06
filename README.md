@@ -33,7 +33,7 @@ Phần mềm hỗ trợ đạp xe trong nhà trên **Windows 11**, kết nối c
 ## 📦 Tải về
 
 👉 Tải tại:
-https://github.com/<your-username>/sBike-Cardio-Basic/releases
+https://github.com/liempv/sBike-Cardio-Basic/releases
 
 ---
 
